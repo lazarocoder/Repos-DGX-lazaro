@@ -1,2 +1,4 @@
-package com.dgx.lazaro.service;public class FamiliaService {
+package com.dgx.lazaro.service;
+
+public class FamiliaService {
 }

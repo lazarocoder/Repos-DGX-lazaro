@@ -1,4 +1,4 @@
-package com.dgx.lazaro;
+package com.dgx.lazaro.Enum;
 
 import java.math.BigDecimal;
 

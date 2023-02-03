@@ -18,7 +18,7 @@ public class PessoaDTO {
         this.id = pessoa.getId();
         this.nome = pessoa.getNome();
         this.renda = pessoa.getRenda();
-       // this.dataNascimento = pessoa.getDataNascimento().toLocalDate();
+        this.dataNascimento = pessoa.getDataNascimento().toLocalDate();
     }
 
     public int getIdade() {

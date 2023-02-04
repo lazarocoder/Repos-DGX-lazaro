@@ -30,7 +30,7 @@ mvn clean package
 java -jar target/DGX-project-lazaro-0.0.1-SNAPSHOT.jar  
 
 5º
-Teste a aplicação acessando a seguinte URL: http://localhost:8080/familia/rank usando o método GET para obter o objeto JSON com as famílias ordenadas por pontuação.
+Teste a aplicação acessando a seguinte URL: http://localhost:8080/familia/rank usando o método "GET" para obter o objeto "JSON" com as famílias ordenadas pela pontuação.
 
 
 

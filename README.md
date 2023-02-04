@@ -6,7 +6,9 @@ Java a partir da versão 8
 
 Maven a partir da versão 3.3 
 
-GIT
+GIT:
+
+Bash ou Git Bash
 
 @Instrução de execução
 
